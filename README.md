@@ -7,6 +7,9 @@ Você pode acessar o repositório desse projeto em <a href="https://github.com/m
 
 ## Pré-requisitos
 
++ .NET 8
++ Visual Studio Code (VS Code)
+
 ## Criando o projeto
 
 ## Conclusão
