@@ -12,5 +12,5 @@ Você pode acessar o repositório desse projeto em <a href="https://github.com/m
 
 ## Criando o projeto
     
-    dotnet new web -o ExempleMinimalApi -f net8.0
+    dotnet new web -o ExemploMinimalApi -f net8.0
 ## Conclusão
