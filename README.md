@@ -11,5 +11,6 @@ Você pode acessar o repositório desse projeto em <a href="https://github.com/m
 + Visual Studio Code (VS Code)
 
 ## Criando o projeto
-
+    
+    dotnet new web -o ExempleMinimalApi -f net8.0
 ## Conclusão
