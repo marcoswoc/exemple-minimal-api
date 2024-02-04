@@ -11,6 +11,7 @@ Você pode acessar o repositório desse projeto em <a href="https://github.com/m
 + Visual Studio Code (VS Code)
 
 ## Criando o projeto
-    
+Com o comando **`dotnet new web`** vamos criar um projeto do tipo Minimal API, podemos utilizar o parâmetro **`-o`** para criar o projeto em uma pasta, o nome da pasta será o nome do projeto, também estamos utilizando o parâmetro **`-f`** para determinar a versão do framework utilizado, no nosso caso net8.0
+
     dotnet new web -o ExemploMinimalApi -f net8.0
 ## Conclusão
